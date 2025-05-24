@@ -123,7 +123,7 @@ Try the below steps
 ```
 helm show values prometheus-community/kube-prometheus-stack  > values.yaml
 
-Edit the file values.yaml and update the value of maximumStartupDurationSeconds to 60 , and save it
+# Edit the file values.yaml and update the value of maximumStartupDurationSeconds to 60 , and save it
 
 Then execute the below command 
 
